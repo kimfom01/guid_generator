@@ -28,3 +28,7 @@ dotnet publish -o ./build -p:PublishSingleFile=true
 ```
 
 > `-p:PublishSingleFile=true` allows you to build into one file otherwise you will have an executable, a dll and other config files
+
+## Demo
+
+![Demo video](./assets/demo.gif)
